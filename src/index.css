@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: url("assets/cat-night.jpg") center/cover no-repeat #010204;
+  color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* font-family: Helvetica, sans-serif; */
+  /* font-family: "Kalam", cursive; */
+  font-family: "Itim", serif;
+
+  color: gold;
+}
