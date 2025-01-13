@@ -1,9 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faCheckDouble,
-  faCircleCheck,
-  faPowerOff,
-} from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
 
 // Aşağıdaki gibi tanımlamaya gerek yok. Başlangıç değerinden kendisi anlıyor.
@@ -27,7 +21,7 @@ const AddTodo: React.FC<IAddTodoComponent> = ({
 
   const handleSubmit = (e: FormSubmitEvent) => {
     e.preventDefault();
-    if (!task || task.trim() == "") {
+    if (!task || task.trim() === "") {
       setTask("");
       return;
     }
