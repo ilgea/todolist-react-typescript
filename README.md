@@ -48,9 +48,7 @@ Project aims to create a TodoList app with Typescript.
 
 ## Expected Outcome
 
-<p align="center">
-<a href=""><img src="" alt="screenshot"></a>
-</p>
+<video src="https://github.com/user-attachments/assets/d887bd77-0c6c-4973-b27e-67cb14c7dda5" alt="screenshot">
 
 ## Link
 <p align="left">
@@ -60,7 +58,7 @@ Project aims to create a TodoList app with Typescript.
 
 ## Objective
 
-Build a TodoList App using ReactJS.
+Build a TodoList App using ReactJS + Typescript.
 
 ### At the end of the project, following topics are to be covered;
 
