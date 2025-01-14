@@ -1,3 +1,91 @@
+# Project: TodoList App
+
+## Contents
+
+  - [Description](#description)
+  - [Problem Statement](#problem-statement)
+  - [Project Skeleton](#project-skeleton)
+  - [Expected Outcome](#expected-outcome)
+  - [Link](#link)
+  - [Objective](#objective)
+
+## Description
+
+Project aims to create a TodoList app with Typescript.
+
+## Problem Statement
+
+- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+
+## Project Skeleton
+
+```
+└── 📁todolist-react-typescript
+    └── 📁public
+        └── index.html
+    └── 📁src
+        └── App.css
+        └── App.tsx
+        └── 📁assets
+            └── cat-night.jpg
+        └── 📁components
+            └── AddTodo.tsx
+            └── 📁style
+                └── ItemList.styled.jsx
+            └── TodoItems.tsx
+            └── TodoList.tsx
+        └── index.css
+        └── index.tsx
+        └── 📁pages
+            └── Home.tsx
+        └── react-app-env.d.ts
+        └── types.d.ts
+    └── package.json
+    └── README.md
+    └── tsconfig.json
+    └── yarn.lock
+```
+
+## Expected Outcome
+
+<p align="center">
+<a href=""><img src="" alt="screenshot"></a>
+</p>
+
+## Link
+<p align="left">
+<b>Check The Live Website ➡️</b> <a href="https://dreamtodolist.netlify.app/">Live Website</a>
+</p>
+<hr>
+
+## Objective
+
+Build a TodoList App using ReactJS.
+
+### At the end of the project, following topics are to be covered;
+
+- HTML
+
+- CSS
+
+- JS
+
+- ReactJS
+
+- Typescript
+
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML & CSS & JS & ReactJS & Typescript.
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+## Notes
+
+- You can add additional functionalities to your app.
+
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
