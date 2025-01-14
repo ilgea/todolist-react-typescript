@@ -48,7 +48,8 @@ Project aims to create a TodoList app with Typescript.
 
 ## Expected Outcome
 
-<video src="https://github.com/user-attachments/assets/d887bd77-0c6c-4973-b27e-67cb14c7dda5" alt="screenshot">
+<video src="https://github.com/user-attachments/assets/d887bd77-0c6c-4973-b27e-67cb14c7dda5" alt="screenshot" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Link
 <p align="left">
